@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="45b071e2-69c6-449a-baaa-f8bcede31d75" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1dxXfirVZ4bdArVsyHkghD7dYmZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Cookies" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="camera" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Facial_Expression_Recognition" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/camera.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.camera" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45b071e2-69c6-449a-baaa-f8bcede31d75" name="Default Changelist" comment="" />
+      <created>1593367823202</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593367823202</updated>
+    </task>
+    <task id="LOCAL-00001" summary="first">
+      <created>1594001336377</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594001336377</updated>
+    </task>
+    <task id="LOCAL-00002" summary="initial commit">
+      <created>1594001704767</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1594001704767</updated>
+    </task>
+    <task id="LOCAL-00003" summary="initial commit">
+      <created>1594002012695</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1594002012695</updated>
+    </task>
+    <task id="LOCAL-00004" summary="initial commit">
+      <created>1594002218695</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1594002218695</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first" />
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="484" y="0" key="#camera" timestamp="1594001249628">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="484" y="0" key="#camera/0.0.1536.824@0.0.1536.824" timestamp="1594001249628" />
+    <state x="404" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593572520343">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="404" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1593572520343" />
+    <state x="487" y="220" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593499715682">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="487" y="220" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1593499715682" />
+    <state x="395" y="0" key="CommitChangelistDialog2" timestamp="1594002213400">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="395" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1594002213400" />
+    <state x="500" y="224" key="FileChooserDialogImpl" timestamp="1593458271026">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="500" y="224" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1593458271026" />
+    <state x="803" y="290" key="Github.ShareDialog" timestamp="1594002238958">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="803" y="290" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1594002238958" />
+    <state x="542" y="117" key="Github.UntrackedFilesDialog" timestamp="1593998318448">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="542" y="117" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1593998318448" />
+    <state width="1515" height="155" key="GridCell.Tab.0.bottom" timestamp="1593590330765">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="155" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593590330765" />
+    <state width="1515" height="155" key="GridCell.Tab.0.center" timestamp="1593590330765">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="155" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1593590330765" />
+    <state width="1515" height="155" key="GridCell.Tab.0.left" timestamp="1593590330765">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="155" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1593590330765" />
+    <state width="1515" height="155" key="GridCell.Tab.0.right" timestamp="1593590330765">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="155" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593590330765" />
+    <state width="1364" height="242" key="GridCell.Tab.1.bottom" timestamp="1593435276047">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1364" height="242" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593435276047" />
+    <state width="1364" height="242" key="GridCell.Tab.1.center" timestamp="1593435276047">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1364" height="242" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1593435276047" />
+    <state width="1364" height="242" key="GridCell.Tab.1.left" timestamp="1593435276046">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1364" height="242" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1593435276046" />
+    <state width="1364" height="242" key="GridCell.Tab.1.right" timestamp="1593435276047">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1364" height="242" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1593435276047" />
+    <state x="229" y="114" key="SettingsEditor" timestamp="1593475806679">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="229" y="114" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1593475806679" />
+    <state x="963" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1594002148510">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="963" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1594002148510" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
