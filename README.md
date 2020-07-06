@@ -1,1 +1,1 @@
-# Facial_Expression_Recognition
+Facial expression detection model
